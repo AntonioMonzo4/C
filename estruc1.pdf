@@ -1,0 +1,380 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Annots []
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 18728>>
+stream
+q
+1.000 0.000 0.000 -1.000 0.000 841.890 cm
+2 J
+0.57 w
+BT /F1 8.00 Tf ET
+0 G
+0 g
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 36.42 Tm 0 Tr ( 1  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 36.42 Tm 0 Tr (#include <stdio.h>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 47.75 Tm 0 Tr ( 2  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 47.75 Tm 0 Tr (#include <string.h>) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 59.09 Tm 0 Tr ( 3  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 70.43 Tm 0 Tr ( 4  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 70.43 Tm 0 Tr (#define MAX_NOMBRE 30) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 81.77 Tm 0 Tr ( 5  ) Tj  ET Q
+q 0.000 0.627 0.000 rg BT 1 0 0 -1 47.55 81.77 Tm 0 Tr (#define MAX_APELLIDOS 50) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 93.11 Tm 0 Tr ( 6  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 104.45 Tm 0 Tr ( 7  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 104.45 Tm 0 Tr (typedef char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 96.38 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 104.45 Tm 0 Tr (tNombre) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 104.45 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 96.38 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 104.45 Tm 0 Tr (MAX_NOMBRE) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 196.35 104.45 Tm 0 Tr (];) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 115.79 Tm 0 Tr ( 8  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 115.79 Tm 0 Tr (typedef char ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+109.95 107.72 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 109.95 115.79 Tm 0 Tr (tApellidos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 115.79 Tm 0 Tr ([) Tj  ET Q
+1.000 1.000 1.000 rg
+162.75 107.72 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 162.75 115.79 Tm 0 Tr (MAX_NOMBRE) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 115.79 Tm 0 Tr (];) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 127.12 Tm 0 Tr ( 9  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 127.12 Tm 0 Tr (typedef int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+105.15 119.06 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 127.12 Tm 0 Tr (tEdad) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 127.12 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 138.46 Tm 0 Tr (10  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 149.80 Tm 0 Tr (11  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 149.80 Tm 0 Tr (typedef struct) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 161.14 Tm 0 Tr (12  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 161.14 Tm 0 Tr ({) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 172.48 Tm 0 Tr (13  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 172.48 Tm 0 Tr (     ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 164.41 67.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 172.48 Tm 0 Tr (tNombre nombre) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 172.48 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 183.82 Tm 0 Tr (14  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 183.82 Tm 0 Tr (     ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 175.75 96.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 183.82 Tm 0 Tr (tApellidos apellidos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 183.82 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 195.16 Tm 0 Tr (15  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 195.16 Tm 0 Tr (     ) Tj  ET Q
+1.000 1.000 1.000 rg
+71.55 187.09 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 195.16 Tm 0 Tr (tEdad edad) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 119.55 195.16 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 206.49 Tm 0 Tr (16  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 206.49 Tm 0 Tr (}) Tj  ET Q
+1.000 1.000 1.000 rg
+52.35 198.43 38.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 52.35 206.49 Tm 0 Tr (tPersona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 206.49 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 217.83 Tm 0 Tr (17  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 229.17 Tm 0 Tr (18  ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 221.10 96.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 229.17 Tm 0 Tr (tPersona leePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 229.17 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 148.35 229.17 Tm 0 Tr (void) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 229.17 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 240.51 Tm 0 Tr (19  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 240.51 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 232.44 72.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 240.51 Tm 0 Tr (escribePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 240.51 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 232.44 76.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 240.51 Tm 0 Tr (tPersona persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 240.51 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 251.85 Tm 0 Tr (20  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 263.19 Tm 0 Tr (21  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 274.53 Tm 0 Tr (22  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 274.53 Tm 0 Tr (int ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+66.75 266.46 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 274.53 Tm 0 Tr (main ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 274.53 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 95.55 274.53 Tm 0 Tr (void) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 274.53 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 285.86 Tm 0 Tr (23  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 297.20 Tm 0 Tr (24  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 297.20 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 289.13 86.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 297.20 Tm 0 Tr (tPersona ciudadano) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 153.15 297.20 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 308.54 Tm 0 Tr (25  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 319.88 Tm 0 Tr (26  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 319.88 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 311.81 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 319.88 Tm 0 Tr (ciudadano ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 114.75 319.88 Tm 0 Tr (= ) Tj  ET Q
+1.000 1.000 1.000 rg
+124.35 311.81 52.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 124.35 319.88 Tm 0 Tr (leePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 319.88 Tm 0 Tr (\(\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 331.22 Tm 0 Tr (27  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 331.22 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 323.15 72.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 331.22 Tm 0 Tr (escribePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 331.22 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+143.55 323.15 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 143.55 331.22 Tm 0 Tr (ciudadano) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 186.75 331.22 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 342.56 Tm 0 Tr (28  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 353.90 Tm 0 Tr (29  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 52.35 353.90 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 0.941 0.000 0.941 rg BT 1 0 0 -1 85.95 353.90 Tm 0 Tr (0) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 353.90 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 365.23 Tm 0 Tr (30  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 365.23 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 376.57 Tm 0 Tr (31  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 387.91 Tm 0 Tr (32  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 399.25 Tm 0 Tr (33  ) Tj  ET Q
+1.000 1.000 1.000 rg
+47.55 391.18 96.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 399.25 Tm 0 Tr (tPersona leePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 399.25 Tm 0 Tr (\() Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 148.35 399.25 Tm 0 Tr (void) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 399.25 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 410.59 Tm 0 Tr (34  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 421.93 Tm 0 Tr (35  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 421.93 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 413.86 76.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 421.93 Tm 0 Tr (tPersona persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 421.93 Tm 0 Tr (;) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 433.27 Tm 0 Tr (36  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 444.60 Tm 0 Tr (37  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 444.60 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 436.54 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 444.60 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 444.60 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 444.60 Tm 0 Tr ("\\n escribe el nombre: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 444.60 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 455.94 Tm 0 Tr (38  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 455.94 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 447.87 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 455.94 Tm 0 Tr (fgets) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 455.94 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+95.55 447.87 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 455.94 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 455.94 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 447.87 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 455.94 Tm 0 Tr (nombre) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 162.75 455.94 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+167.55 447.87 48.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 167.55 455.94 Tm 0 Tr (MAX_NOMBRE) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 215.55 455.94 Tm 0 Tr (,) Tj  ET Q
+1.000 1.000 1.000 rg
+220.35 447.87 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 220.35 455.94 Tm 0 Tr (stdin) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 455.94 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 467.28 Tm 0 Tr (39  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 478.62 Tm 0 Tr (40  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 478.62 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 470.55 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 478.62 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 478.62 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 478.62 Tm 0 Tr ("\\n escribe el apellido: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 478.62 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 489.96 Tm 0 Tr (41  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 489.96 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 481.89 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 489.96 Tm 0 Tr (fgets) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 90.75 489.96 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+95.55 481.89 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 95.55 489.96 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 489.96 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+133.95 481.89 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 133.95 489.96 Tm 0 Tr (apellidos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 489.96 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+186.75 481.89 62.40 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 489.96 Tm 0 Tr (MAX_APELLIDOS) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 249.15 489.96 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+258.75 481.89 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 258.75 489.96 Tm 0 Tr (stdin) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 282.75 489.96 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 501.30 Tm 0 Tr (42  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 512.64 Tm 0 Tr (43  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 512.64 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 504.57 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 512.64 Tm 0 Tr (printf) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 512.64 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 100.35 512.64 Tm 0 Tr ("\\n escribe la edad: ") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 512.64 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 523.97 Tm 0 Tr (44  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 523.97 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 515.91 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 523.97 Tm 0 Tr (fscanf ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 523.97 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 515.91 24.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 523.97 Tm 0 Tr (stdin) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 129.15 523.97 Tm 0 Tr (, ) Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 138.75 523.97 Tm 0 Tr ("%d") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 157.95 523.97 Tm 0 Tr (, &\() Tj  ET Q
+1.000 1.000 1.000 rg
+177.15 515.91 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 523.97 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 210.75 523.97 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+215.55 515.91 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 215.55 523.97 Tm 0 Tr (edad) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 234.75 523.97 Tm 0 Tr (\)\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 535.31 Tm 0 Tr (45  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 546.65 Tm 0 Tr (46  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 546.65 Tm 0 Tr (    ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 66.75 546.65 Tm 0 Tr (return ) Tj  ET Q
+BT /F1 8.00 Tf ET
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 546.65 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+105.15 538.58 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 105.15 546.65 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 138.75 546.65 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 557.99 Tm 0 Tr (47  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 557.99 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 569.33 Tm 0 Tr (48  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 580.67 Tm 0 Tr (49  ) Tj  ET Q
+BT /F2 8.00 Tf ET
+q 0.000 0.000 0.627 rg BT 1 0 0 -1 47.55 580.67 Tm 0 Tr (void ) Tj  ET Q
+BT /F1 8.00 Tf ET
+1.000 1.000 1.000 rg
+71.55 572.60 72.00 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 71.55 580.67 Tm 0 Tr (escribePersona ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 143.55 580.67 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+148.35 572.60 76.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 148.35 580.67 Tm 0 Tr (tPersona persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 225.15 580.67 Tm 0 Tr (\){) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 592.01 Tm 0 Tr (50  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 603.34 Tm 0 Tr (51  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 603.34 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 595.28 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 603.34 Tm 0 Tr (fputs ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 603.34 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+100.35 595.28 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 603.34 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 603.34 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 595.28 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 603.34 Tm 0 Tr (nombre) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 167.55 603.34 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+177.15 595.28 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 177.15 603.34 Tm 0 Tr (stdout) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 205.95 603.34 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 614.68 Tm 0 Tr (52  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 614.68 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 606.61 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 614.68 Tm 0 Tr (fputs ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 95.55 614.68 Tm 0 Tr (\() Tj  ET Q
+1.000 1.000 1.000 rg
+100.35 606.61 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 100.35 614.68 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 133.95 614.68 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+138.75 606.61 43.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 138.75 614.68 Tm 0 Tr (apellidos) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 181.95 614.68 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+191.55 606.61 28.80 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 191.55 614.68 Tm 0 Tr (stdout) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 614.68 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 626.02 Tm 0 Tr (53  ) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 47.55 626.02 Tm 0 Tr (    ) Tj  ET Q
+1.000 1.000 1.000 rg
+66.75 617.95 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 66.75 626.02 Tm 0 Tr (printf ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 100.35 626.02 Tm 0 Tr (\() Tj  ET Q
+q 0.000 0.000 1.000 rg BT 1 0 0 -1 105.15 626.02 Tm 0 Tr ("tiene %d años") Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 177.15 626.02 Tm 0 Tr (, ) Tj  ET Q
+1.000 1.000 1.000 rg
+186.75 617.95 33.60 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 186.75 626.02 Tm 0 Tr (persona) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 220.35 626.02 Tm 0 Tr (.) Tj  ET Q
+1.000 1.000 1.000 rg
+225.15 617.95 19.20 11.34 re f q 0.000 0.000 0.000 rg BT 1 0 0 -1 225.15 626.02 Tm 0 Tr (edad) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 244.35 626.02 Tm 0 Tr (\);) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 637.36 Tm 0 Tr (54  ) Tj  ET Q
+q 1.000 0.000 0.000 rg BT 1 0 0 -1 47.55 637.36 Tm 0 Tr (}) Tj  ET Q
+q 0.000 0.000 0.000 rg BT 1 0 0 -1 28.35 648.70 Tm 0 Tr (55  ) Tj  ET Q
+Q
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.276 841.890]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+6 0 obj
+<</Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F2 5 0 R
+/F1 6 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+7 0 obj
+<<
+/Names []
+>>
+endobj
+8 0 obj
+<<
+/Producer (þÿ w x P d f D o c u m e n t   0 . 9 . 8)
+/CreationDate (D:20221019160943)
+>>
+endobj
+9 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000018877 00000 n 
+0000019159 00000 n 
+0000000009 00000 n 
+0000000098 00000 n 
+0000018966 00000 n 
+0000019065 00000 n 
+0000019273 00000 n 
+0000019304 00000 n 
+0000019411 00000 n 
+trailer
+<<
+/Size 10
+/Root 9 0 R
+/Info 8 0 R
+>>
+startxref
+19514
+%%EOF
