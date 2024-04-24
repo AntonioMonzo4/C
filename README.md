@@ -1,3 +1,3 @@
 # PDFs DE C Básico
 
-Lista de documentos pdfs en lenguaje C.
+Lista de documentos pdf en lenguaje C para empezar a programar.
